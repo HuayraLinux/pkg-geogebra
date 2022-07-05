@@ -1,0 +1,24 @@
+Source: geogebra
+Section: utils
+Priority: extra
+Maintainer: Fernando Toledo <ragnarok@docksud.com.ar>
+Build-Depends: debhelper (>= 10.0.0), unzip
+Standards-Version: 3.9.6
+Homepage: http://www.geogebra.org
+Vcs-Browser: https://github.com/HuayraLinux/pkg-geogebra
+Vcs-Git: https://github.com/HuayraLinux/pkg-geogebra.git
+
+Package: geogebra
+Provides: geogebra
+Conflicts: geogebra (<= 6)
+Replaces: geogebra (<= 6)
+Architecture: i386 amd64
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: GeoGebra es un software gratuito de matemáticas
+ GeoGebra is a dynamic mathematics software for all levels of education that
+ brings together geometry, algebra, spreadsheets, graphing, statistics and
+ calculus in one engine. In addition, GeoGebra offers an online platform with
+ over 1 million free classroom resources created by our multilingual
+ community. 
+ These resources can be easily shared through our collaboration platform 
+ GeoGebra Classroom where student progress can be monitored in real time.
