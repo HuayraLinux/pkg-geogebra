@@ -1,3 +1,9 @@
+geogebra (6.0.718.0-1) unstable; urgency=medium
+
+  * fix link ejecutable 
+
+ -- Fernando Toledo <ragnarok@docksud.com.ar>  Mon, 18 Jul 2022 21:07:05 -0300
+
 geogebra (6.0.718.0-0) unstable; urgency=medium
 
   * Initial release.
