@@ -1,3 +1,9 @@
+geogebra (6.0.718.0-2) unstable; urgency=medium
+
+  * fix permisos de chrome-sandbox 
+
+ -- Fernando Toledo <ragnarok@docksud.com.ar>  Wed, 20 Jul 2022 20:54:54 -0300
+
 geogebra (6.0.718.0-1) unstable; urgency=medium
 
   * fix link ejecutable 

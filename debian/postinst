@@ -1,0 +1,6 @@
+#! /bin/sh
+set -e
+
+chmod 4755 /opt/GeoGebra6/chrome-sandbox
+exit 0
+#DEBHELPER#
